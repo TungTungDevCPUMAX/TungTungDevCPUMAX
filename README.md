@@ -12,24 +12,6 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      <h2>🌐 About Me</h2>
-      <p>I don’t care about fancy corporate titles or buzzwords. I’m just a passionate developer doing what I love from my desk. I enjoy breaking things, fixing them, creating indie games, and building backend systems that actually work.</p>
-      <br/>
-      <h4>// Let's Connect</h4>
-      <a href="https://github.com/TungDev">
-        <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-      </a>
-    </td>
-    <td width="30%" align="center" valign="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="110" />    </td>
-  </tr>
-</table>
-
-<br/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FE&height=2" width="80%" alt="glow line" />
 </p>
