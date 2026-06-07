@@ -65,5 +65,5 @@
   </p>
   
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=TungDev&color=000000&style=for-the-badge&label=VIEW_COUNTER" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TungTungDevCPUMAX&color=000000&style=for-the-badge&label=VIEW_COUNTER" alt="Profile Views" />
 </div>
