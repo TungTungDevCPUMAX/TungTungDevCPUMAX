@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=45&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=80&lines=Hi,%20I'm%20TungDev;System%20Architect;Game%20Developer" alt="Glass Title" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=45&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=80&lines=Hi,%20I'm%20TungDev;Game%20Developer" alt="Glass Title" />
   
   <p><i>Just a guy in his room building cool stuff with code.</i></p>
 </div>
