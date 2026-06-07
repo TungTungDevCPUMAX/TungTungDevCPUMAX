@@ -20,13 +20,11 @@
   </a>
 </div>
 
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FE&height=2" width="80%" alt="glow line" />
 </p>
 
-<br/>
 
 <div align="center">
   <h3>📊 Performance Analysis</h3>
@@ -40,6 +38,5 @@
     </a>
   </p>
   
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=TungTungDevCPUMAX&color=000000&style=for-the-badge&label=VIEW_COUNTER" alt="Profile Views" />
 </div>
