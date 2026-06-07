@@ -4,13 +4,13 @@
   <p><i>Just a guy in his room building cool stuff with code.</i></p>
 </div>
 
-<br/>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FE&height=2" width="80%" alt="glow line" />
 </p>
 
-<br/>
+
 
 <div align="center">
   <h3>🛠️ Tech Stack & Tools</h3>
